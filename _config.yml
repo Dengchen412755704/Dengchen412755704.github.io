@@ -19,7 +19,7 @@ NickName: 'dc'
 webtitle: 'Yumi'
 bio: ''
 about: true
-aboutyou: '/about/about.md'
+aboutyou: '/about/aboutme.md'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -29,16 +29,16 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   weixin: '' # 你的微信二维码存放的地址
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: ''
-  Codepen: ''
+  #Codepen: ''
   weibo: ''
   instagram: ''
   Twitter: ''
-  Dribbble: ''
+  #Dribbble: ''
   Facebook: ''
   Google: ''
   zhihu: ''
-  juejin: ''
-  twitch: ''
+  #juejin: ''
+  #twitch: ''
 
 # 分页
 paginate: 2
