@@ -19,7 +19,7 @@ NickName: 'dc'
 webtitle: 'Yumi'
 bio: ''
 about: true
-aboutyou: '/about/aboutme.md'
+aboutyou: '/aboutme.md' #自我介绍
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
