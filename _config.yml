@@ -9,7 +9,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   首页: '/'
   标签: '/tags.html'
   时间线: '/timeline.html'
-  关于博主: '/about.html'
+  关于博主: '/about/about.html'
   友情链接: '/friendLink.html'
 
 # 博主
@@ -19,7 +19,7 @@ NickName: 'dc'
 webtitle: 'Yumi'
 bio: ''
 about: true
-aboutyou: '/about.md'
+aboutyou: '/about/about.md'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -60,6 +60,7 @@ pygmentsTheme: 'default'
 # 友情链接
 friends:
   jekyll: 'https://www.jekyll.com.cn/'
+ 
 
 # 评论 最佳体验 在disqus、livere和Gitment之间三选一
 # disqus 评论
